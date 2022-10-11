@@ -1,0 +1,9 @@
+#the-canvas {
+    border: 10px solid rgb(195, 60, 236);
+    direction: ltr;
+}
+
+iframe, embed, object {
+    height: 600px;
+    width: 100%;
+}
